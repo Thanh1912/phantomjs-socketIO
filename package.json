@@ -1,0 +1,31 @@
+{
+  "name": "phantom-socketio",
+  "version": "0.0.2",
+  "description": "This simple library provides the ability to use socket.io-client library inside phantomjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShyykoSerhiy/PhantomSocketIo.git"
+  },
+  "keywords": [
+    "phantom.js",
+    "phantom",
+    "socket",
+    "socket.io"
+  ],
+  "author": "shyyko.serhiy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShyykoSerhiy/PhantomSocketIo/issues"
+  },
+  "homepage": "https://github.com/ShyykoSerhiy/PhantomSocketIo",
+  "dependencies": {
+    "socket.io-client": "~2.0.1"
+  },
+  "devDependencies": {
+    "socket.io": "~2.0.1"
+  }
+}
